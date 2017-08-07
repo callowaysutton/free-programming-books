@@ -31,7 +31,7 @@
 * [Oracle PL/SQL](#oracle-plsql)
 * [PHP](#php)
 * [Python](#python)
-* [QB64](#QB64)
+* [QB64](#qb64)
 * [R](#r)
 * [RethinkDB](#rethinkdb)
 * [Ruby](#ruby)
